@@ -2,6 +2,10 @@
 Beauty of flower
 =============
 
+### npm install
+
+### node ./src/flower.js --layers 4 --palette fire --radius 35 --out examples/fire.svg
+
 > This script generates beautiful flower of life patterns.
 
 ### Usage:
